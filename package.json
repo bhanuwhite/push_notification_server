@@ -1,0 +1,29 @@
+{
+  "name": "convertvisitors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InautusLLC/ConvertVisitors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InautusLLC/ConvertVisitors/issues"
+  },
+  "homepage": "https://github.com/InautusLLC/ConvertVisitors#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-modrewrite": "^0.9.0",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "web-push": "^2.2.0"
+  }
+}
+
